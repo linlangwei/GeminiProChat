@@ -278,6 +278,15 @@ export default () => {
             <IconClear />
           </button>
         </div>
+        <div>
+          <br></br>
+          <p class="flex flex-wrap justify-center items-center text-xs op-30 my-0" color="grey">
+            <a href="#" class="font-bold">Back to Top</a>
+          </p>
+        </div>
+
+
+
       </Show>
       {/* <div class="fixed bottom-5 left-5 rounded-md hover:bg-slate/10 w-fit h-fit transition-colors active:scale-90" class:stick-btn-on={isStick()}>
         <div>
